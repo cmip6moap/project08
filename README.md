@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/33627791/120821029-ff849f00-c54c-11eb-90e8-f589d505b6f1.png)
+<img width="1170" alt="image" src="https://user-images.githubusercontent.com/33627791/120821146-1c20d700-c54d-11eb-86d5-c6c77c119a8b.png">
 
 Figures in IPCC reports, especially those in the Summaries for Policy Makers, are often densely packed with information from multiple sources. This makes it challenging to understand the full impact of the figure without having additional information. This project will investigate adding interactive elements to key IPCC figures from the 5th Assessment Report or other recent Special Reports. These elements could include highlighting key aspects and relating them to key conclusions, adding numerical values or even animating graphics. The possibilities are endless.
 
