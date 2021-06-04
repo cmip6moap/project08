@@ -23,19 +23,22 @@ Figures in IPCC reports, especially those in the Summaries for Policy Makers, ar
 
 ## Contributors
 
-* Lily Gouldsbrough https://www.lancaster.ac.uk/people-profiles/lily-gouldsbrough https://twitter.com/lilygouldsbr
-* Matt Amos https://www.lancaster.ac.uk/people-profiles/matt-amos https://twitter.com/mattamosphere
+* Lily Gouldsbrough https://www.lancaster.ac.uk/people-profiles/lily-gouldsbrough Twitter: https://twitter.com/lilygouldsbr
+* Matt Amos https://www.lancaster.ac.uk/people-profiles/matt-amos Twitter: https://twitter.com/mattamosphere
 * Christoph Sauter
 * Viola Heinrich
 * Ying Chen
 * Stephen Kelly
-* 
 
 ## What was done
+We create 3 interactive figures using CMIP6 data.
+Figure 1: Global changes in CO2 emissions.
+Figure 2: Regional Average Mean Changes in Temperature
+Figure 3: Temperature Anamoly Relative to 1861-1890 Average
 
 ### How we approached the problem and why
 
-[...]
+Initially, we spent time processing the data...
 
 ### Data we used and how to obtain this
 
