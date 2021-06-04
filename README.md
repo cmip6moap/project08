@@ -1,32 +1,24 @@
-# Hackathon Project Template
-
-This is a template repo for hackathon projects. Click the (green) "Use this
-template" button at the top of the page to use it.
-
-There are also some example notebooks. Check our [Hackathon Resources](https://cmip6moap.github.io/resources/)
-page for further guidance, including our participant guide and recommendations
-for using Git and GitHub in your project team.
-
-This template repo was created for the [CMIP6 Data Hackathon](https://cmip6moap.github.io)
-by [James Thomas](https://github.com/jatonline) and [Will Seviour](https://github.com/wseviour).
-
-## Change this README!
-
-When you've used this template, remove the above text and replace with the
-below:
-
 ---
 
-# [Project title]
+# Interactive graphics of key CMIP6-based IPCC figures
 
-[Short summary of the project]
+Figures in IPCC reports, especially those in the Summaries for Policy Makers, are often densely packed with information from multiple sources. This makes it challenging to understand the full impact of the figure without having additional information. This project will investigate adding interactive elements to key IPCC figures from the 5th Assessment Report or other recent Special Reports. These elements could include highlighting key aspects and relating them to key conclusions, adding numerical values or even animating graphics. The possibilities are endless.
 
 ## Contributors
 
-* Contributors list
-* With links to GitHub profiles / institution pages, etc.
+* Christoph Sauter, Department of Civil and Environmental Engineering, University of Strathclyde, Glasgow, UK
+* Matt Amos, Lancaster Environment Centre, Lancaster University, Lancaster, UK
+* Lily Gouldsbrough, Lancaster Environment Centre, Lancaster University, Lancaster, UK
+* Stephen Kelly
+* Ying Chen
+* Viola Heinrich, School of Geographical Sciences University of Bristol, UK
+* Robert Rouse
+* Project Lead: Mat Collins, University of Exeter, UK
 
 ## What was done
+
+First we identified a few key figures from previous IPCC reports (AR5 and special reports) and discussed how the figures could be improved or made interactive to help communicate their infomation to a wider audience, mainly policy makers. 
+We split up into 3 broader groups and then combined our data at the end. 
 
 ### How we approached the problem and why
 
@@ -34,15 +26,16 @@ below:
 
 ### Data we used and how to obtain this
 
-* [...]
+* AR6 world regions
+* Historical and projected CO2 emissions data (https://esgf-node.llnl.gov/search/input4mips/)
 * [...]
 * [...]
 
 ### What we did during the hackathon
 
-* [...]
-* [...]
-* [...]
+* Processed and analyised the respective data for input to interactive figures
+* Using the world region groups that will be used in the IPCC 6th Assessment Report (AR6) we created an interactive map
+* Created an interactive graph of global historical and future Net carbon emissions under different Shared Socio-Econimic Pathways (SPPs)
 
 ### Outcomes
 
