@@ -1,22 +1,3 @@
-# Hackathon Project Template
-
-This is a template repo for hackathon projects. Click the (green) "Use this
-template" button at the top of the page to use it.
-
-There are also some example notebooks. Check our [Hackathon Resources](https://cmip6moap.github.io/resources/)
-page for further guidance, including our participant guide and recommendations
-for using Git and GitHub in your project team.
-
-This template repo was created for the [CMIP6 Data Hackathon](https://cmip6moap.github.io)
-by [James Thomas](https://github.com/jatonline) and [Will Seviour](https://github.com/wseviour).
-
-## Change this README!
-
-When you've used this template, remove the above text and replace with the
-below:
-
----
-
 # Interactive graphics of key CMIP6-based IPCC figures
 
 Figures in IPCC reports, especially those in the Summaries for Policy Makers, are often densely packed with information from multiple sources. This makes it challenging to understand the full impact of the figure without having additional information. This project will investigate adding interactive elements to key IPCC figures from the 5th Assessment Report or other recent Special Reports. These elements could include highlighting key aspects and relating them to key conclusions, adding numerical values or even animating graphics. The possibilities are endless.
