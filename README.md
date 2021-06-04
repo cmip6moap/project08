@@ -14,9 +14,9 @@ Figures in IPCC reports, especially those in the Summaries for Policy Makers, ar
 
 ## What was done
 We created 3 interactive figures using CMIP6 data.
-Figure 1: Global changes in CO2 emissions.
-Figure 2: Regional Average Mean Changes in Temperature
-Figure 3: Temperature Anamoly Relative to 1861-1890 Average
+* Figure 1: Global changes in CO2 emissions.
+* Figure 2: Regional Average Mean Changes in Temperature
+* Figure 3: Temperature Anamoly Relative to 1861-1890 Average https://nbviewer.jupyter.org/github/cmip6moap/project08/blob/main/results/temperature_changes_over_time.html
 
 ### How we approached the problem and why
 
