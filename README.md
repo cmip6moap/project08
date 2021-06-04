@@ -91,5 +91,3 @@ There are further `README` files in key directories.
 * [...]
 * [...]
 * [...]
-
-Figure 2??
