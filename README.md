@@ -12,7 +12,7 @@ Figures in IPCC reports, especially those in the Summaries for Policy Makers, ar
 * Stephen Kelly, National Oceanography Centre, Southampton, UK
 
 ## What was done
-We create 3 interactive figures using CMIP6 data.
+We created 3 interactive figures using CMIP6 data.
 Figure 1: Global changes in CO2 emissions.
 Figure 2: Regional Average Mean Changes in Temperature
 Figure 3: Temperature Anamoly Relative to 1861-1890 Average
@@ -23,14 +23,15 @@ Initially, we spent time processing the data...
 
 ### Data we used and how to obtain this
 
-* * AR6 world regions https://github.com/SantanderMetGroup/ATLAS/tree/master/reference-regions
+* * AR6 region definitions https://github.com/SantanderMetGroup/ATLAS/tree/master/reference-regions
 * * Historical and projected CO2 emissions data (https://esgf-node.llnl.gov/search/input4mips/)
 
 ### What we did during the hackathon
 
-* * Processed and analyised the respective data for input to interactive figures* Using the world region groups that will be used in the IPCC 6th Assessment Report (AR6) we created an interactive map* Created an interactive graph of global historical and future Net carbon emissions under different Shared Socio-Econimic Pathways (SPPs)
-* [...]
-* [...]
+* Processed and analyised the respective data being used as the input to the interactive figures
+* Used the AR6 region definitions that will be used in the IPCC 6th Assessment Report (AR6) we created an interactive map
+* Created an interactive graph of global historical and future net carbon emissions under different Shared Socio-Econimic Pathways (SPPs)
+* Create an interactive world map plot showing the temperature anomaly of Relative to 1861-1890 average
 
 ### Outcomes
 
