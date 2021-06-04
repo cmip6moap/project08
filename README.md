@@ -14,9 +14,9 @@ Figures in IPCC reports, especially those in the Summaries for Policy Makers, ar
 
 ## What was done
 We created 3 interactive figures using CMIP6 data.
-* Figure 1: Global changes in CO2 emissions https://nbviewer.jupyter.org/github/cmip6moap/project08/blob/main/results/CO2_emissions.html
-* Figure 2: Regional Average Mean Changes in Temperature https://htmlpreview.github.io/?https://github.com/cmip6moap/project08/blob/main/results/Mean_regional_surface_temperature_by_location.html and https://htmlpreview.github.io/?https://github.com/cmip6moap/project08/blob/main/results/Mean_regional_surface_temperature_by_ssp.html
-* Figure 3: Temperature Anamoly Relative to 1861-1890 Average https://htmlpreview.github.io/?https://github.com/cmip6moap/project08/blob/main/results/temperature_changes_over_time.html
+* Figure 1: Global changes in CO2 emissions [here](https://nbviewer.jupyter.org/github/cmip6moap/project08/blob/main/results/CO2_emissions.html)
+* Figure 2: Regional Average Mean Changes in Temperature [here](https://htmlpreview.github.io/?https://github.com/cmip6moap/project08/blob/main/results/Mean_regional_surface_temperature_by_location.html) and [here](https://htmlpreview.github.io/?https://github.com/cmip6moap/project08/blob/main/results/Mean_regional_surface_temperature_by_ssp.html)
+* Figure 3: Temperature Anamoly Relative to 1861-1890 Average [here](https://htmlpreview.github.io/?https://github.com/cmip6moap/project08/blob/main/results/temperature_changes_over_time.html)
 
 ### How we approached the problem and why
 
