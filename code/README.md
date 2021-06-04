@@ -1,6 +1,3 @@
-# Any code that you created that doesn't sit within a Notebook
+# Code for preprocessing on JASMIN using the LOTUS batch service
 
-Could be Python or otherwise, for example larger data processing tasks that ran
-on the Scientific Analysis Servers, or batch processing performed on LOTUS
-
-Explain what the files are here
+File 'batch_process.py' collects, regrids, and finds the anomaly of all CMIP6 models for a specified scenario calling anom_regrid.py
