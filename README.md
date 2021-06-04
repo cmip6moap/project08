@@ -88,6 +88,6 @@ There are further `README` files in key directories.
 
 ## Next steps for our project
 
-* [...]
+* Adding different scenarios to the temperature anamoly plot.
 * [...]
 * [...]
