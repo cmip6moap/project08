@@ -31,7 +31,7 @@ Initially, we spent time processing the data...
 * Processed and analyised the respective data being used as the input to the interactive figures
 * Used the AR6 region definitions that will be used in the IPCC 6th Assessment Report (AR6) we created an interactive map
 * Created an interactive graph of global historical and future net carbon emissions under different Shared Socio-Econimic Pathways (SPPs)
-* Create an interactive world map plot showing the temperature anomaly of Relative to 1861-1890 average
+* Created an interactive world map plot showing the temperature anomaly relative to 1861-1890 average using SSP3.70 Regional Rivalry
 
 ### Outcomes
 
