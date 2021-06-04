@@ -17,16 +17,25 @@ below:
 
 ---
 
-# [Project title]
+# Interactive graphics of key CMIP6-based IPCC figures
 
-[Short summary of the project]
+Figures in IPCC reports, especially those in the Summaries for Policy Makers, are often densely packed with information from multiple sources. This makes it challenging to understand the full impact of the figure without having additional information. This project will investigate adding interactive elements to key IPCC figures from the 5th Assessment Report or other recent Special Reports. These elements could include highlighting key aspects and relating them to key conclusions, adding numerical values or even animating graphics. The possibilities are endless.
 
 ## Contributors
 
-* Contributors list
-* With links to GitHub profiles / institution pages, etc.
+* Christoph Sauter
+* Matt Amos
+* Lily Gouldsbrough
+* Stephen Kelly
+* Ying Chen
+* Viola Heinrich, University of Bristol (heinrichTrees)
+* Robert Rouse
+* Project Lead: Mat Collins
 
 ## What was done
+
+First we identified a few key figures from previous IPCC reports (AR5 and special reports) and discussed how the figures could be improved or made interactive to help communicate their infomation to a wider audience, mainly policy makers. 
+We split up into 3 broader groups and then combined our data at the end. 
 
 ### How we approached the problem and why
 
@@ -34,7 +43,7 @@ below:
 
 ### Data we used and how to obtain this
 
-* [...]
+* AR6 world regions, 
 * [...]
 * [...]
 
