@@ -4,12 +4,12 @@ Figures in IPCC reports, especially those in the Summaries for Policy Makers, ar
 
 ## Contributors
 
-* Lily Gouldsbrough https://www.lancaster.ac.uk/people-profiles/lily-gouldsbrough Twitter: https://twitter.com/lilygouldsbr
-* Matt Amos https://www.lancaster.ac.uk/people-profiles/matt-amos Twitter: https://twitter.com/mattamosphere
-* Christoph Sauter
-* Viola Heinrich
+* Lily Gouldsbrough, Lancaster Environment Centre, Lancaster University, Lancaster, UK, Twitter: https://twitter.com/lilygouldsbr
+* Matt Amos, Lancaster Environment Centre, Lancaster University, Lancaster, UK, Twitter: https://twitter.com/mattamosphere
+* Christoph Sauter, Department of Civil and Environmental Engineering, University of Strathclyde, Glasgow, UK
+* Viola Heinrich, School of Geographical Sciences, University of Bristol, UK
 * Ying Chen
-* Stephen Kelly
+* Stephen Kelly, National Oceanography Centre, Southampton, UK
 
 ## What was done
 We create 3 interactive figures using CMIP6 data.
@@ -23,13 +23,12 @@ Initially, we spent time processing the data...
 
 ### Data we used and how to obtain this
 
-* [...]
-* [...]
-* [...]
+* * AR6 world regions https://github.com/SantanderMetGroup/ATLAS/tree/master/reference-regions
+* * Historical and projected CO2 emissions data (https://esgf-node.llnl.gov/search/input4mips/)
 
 ### What we did during the hackathon
 
-* [...]
+* * Processed and analyised the respective data for input to interactive figures* Using the world region groups that will be used in the IPCC 6th Assessment Report (AR6) we created an interactive map* Created an interactive graph of global historical and future Net carbon emissions under different Shared Socio-Econimic Pathways (SPPs)
 * [...]
 * [...]
 
