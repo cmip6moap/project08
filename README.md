@@ -8,8 +8,9 @@ Figures in IPCC reports, especially those in the Summaries for Policy Makers, ar
 * Matt Amos, Lancaster Environment Centre, Lancaster University, Lancaster, UK, Twitter: https://twitter.com/mattamosphere
 * Christoph Sauter, Department of Civil and Environmental Engineering, University of Strathclyde, Glasgow, UK
 * Viola Heinrich, School of Geographical Sciences, University of Bristol, UK
-* Ying Chen
+* Ying Chen, University of Exeter
 * Stephen Kelly, National Oceanography Centre, Southampton, UK
+* Mat Collins, University of Exeter
 
 ## What was done
 We created 3 interactive figures using CMIP6 data.
