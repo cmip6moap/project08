@@ -1,6 +1,1 @@
-# Any output data that you produced
-
-Explain what the files are here
-
-If the data is too large to commit, then explain where it is stored on the Group
-Workspace
+The area_region_MST_{}.csv files are the regional annual average surface temperature anomaly (relative to 1861-1890) for 4 main SSPs from the MMM of CMIP6 models. These are used in the making of figures 2 and 3
