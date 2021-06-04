@@ -23,8 +23,13 @@ Figures in IPCC reports, especially those in the Summaries for Policy Makers, ar
 
 ## Contributors
 
-* Contributors list
-* With links to GitHub profiles / institution pages, etc.
+* Lily Gouldsbrough https://www.lancaster.ac.uk/people-profiles/lily-gouldsbrough https://twitter.com/lilygouldsbr
+* Matt Amos https://www.lancaster.ac.uk/people-profiles/matt-amos https://twitter.com/mattamosphere
+* Christoph Sauter
+* Viola Heinrich
+* Ying Chen
+* Stephen Kelly
+* 
 
 ## What was done
 
